@@ -1,6 +1,6 @@
 # Travel App
 
-![alt text]("./public/main.png")
+![alt text](./public/main.png)
 
 ## Table of Contents
 
