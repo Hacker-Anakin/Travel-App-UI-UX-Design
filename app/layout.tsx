@@ -16,7 +16,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Travel",
+  title: "Travel App",
   description: "Travel UI-UX Website",
 };
 

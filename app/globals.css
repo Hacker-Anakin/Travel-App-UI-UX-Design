@@ -134,6 +134,10 @@ body {
     @apply absolute -right-6 bottom-4 w-[140px] lg:bottom-10 xl:-right-8 xl:w-[186px] 3xl:right-0;
   }
 
+  .arrow-style{
+    @apply text-3xl rounded-lg bg-white cursor-pointer
+  }
+
   /* Feature */
   .feature-phone {
     @apply absolute top-[13%] z-10 hidden max-w-[1500px] rotate-[15deg] md:-left-16 lg:flex  3xl:left-20;
