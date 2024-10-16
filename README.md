@@ -1,7 +1,3 @@
-Here’s the updated README for your "Travel App":
-
----
-
 # Travel App
 
 ![alt text]("./public/main.png")
